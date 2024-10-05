@@ -10,6 +10,10 @@ To run the application, use the following command:
 ```python
 python app.py
 ```
+OR 
+  
+[click_here]([https://mobile-price-prediction-ywpk.onrender.com](https://car-insurance-claim.onrender.com/)) to see deployed web application (deployed on Render).
+
 ## Installation Instructions
 Ensure you have the necessary dependencies installed, which are listed in the requirements.txt file.
 _________________________________________________________________________________________________________________________
